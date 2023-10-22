@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align="left">Frontend and React Native Developer</h3>
+Frontend and React Native Developer
 
 <br>
 
