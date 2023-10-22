@@ -69,7 +69,7 @@ Frontend Developer
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#quiden-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/gitlub-original.svg" width="36" height="36" alt="github" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlub/gitlub-original.svg" width="36" height="36" alt="gitlub" />
       </a>
       <br>gitlub
     </td>
@@ -115,9 +115,7 @@ Frontend Developer
         <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="36" height="36" alt="Redux" />
       </a>
       <br>Redux
-    </td>
-  </tr> 
-    <tr>
+    </td> 
      <td align="center" width="110" height="90"> 
       <a href="#quiden-stack" >
         <img src="https://brandeps.com/logo-download/A/Apollo-GraphQL-logo-vector-01.svg" width="36" height="36" alt="Apollo" />
