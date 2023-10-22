@@ -153,6 +153,12 @@ Frontend Developer
       </a>
       <br>React Native
     </td>
+    <td align="center" width="110" height="90">
+      <a href="#quiden-stack">
+        <img src="https://reactnavigation.org/img/spiro.svg" width="36" height="36" alt="React Navigation" />
+      </a>
+      <br>React Navigation
+    </td>
   </tr> 
 </table>
 
