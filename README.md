@@ -69,9 +69,9 @@ Frontend Developer
     </td>
      <td align="center" width="110" height="90"> 
       <a href="#quiden-stack" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlub/gitlub-original.svg" width="36" height="36" alt="gitlub" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" width="36" height="36" alt="gitlab" />
       </a>
-      <br>gitlub
+      <br>gitlab
     </td>
   </tr> 
 </table>
