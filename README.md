@@ -134,6 +134,12 @@ Frontend Developer
       </a>
       <br>Vite
     </td> 
+    <td align="center" width="110" height="90"> 
+      <a href="#quiden-stack" >
+        <img src="https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png" width="36" height="36" alt="styled-components" />
+      </a>
+      <br>Styled components
+    </td>
   </tr> 
 </table>
 
