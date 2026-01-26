@@ -2,7 +2,7 @@
 
 <br>
 
-Frontend and React Native Developer
+Frontend Developer.
 
 <br>
 
