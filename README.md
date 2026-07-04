@@ -1,5 +1,5 @@
 # Hello there. I'm Mikhail Kachalkov
-<br>
+
 Frontend Developer with experience building modern web applications using React, Next.js, and TypeScript. I work with reusable UI components, complex forms, API integrations, authentication flows, billing and payment interfaces, and responsive layouts. <br />
 I enjoy learning new technologies and improving my skills through practice. I regularly study frontend tools, patterns, and best practices, and apply them in real projects to write cleaner, more reliable, and maintainable code.
 <br>
