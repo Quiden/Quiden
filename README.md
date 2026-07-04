@@ -22,6 +22,7 @@ I enjoy learning new technologies and improving my skills through practice. I re
 - 🧭 Feature-Sliced Design architecture
 - 📝 Strapi Blog
 - 🎫 Freshdesk
+- 🤖 AI-assisted development, code analysis, harness engineering
 - 🛠️ Webpack, Vite
 - ✅ ESLint, Prettier, Stylelint, Biome
 - 🧬 Git, GitHub, GitLab
